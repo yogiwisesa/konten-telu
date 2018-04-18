@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "928889593190",
+    "firebase_url": "https://konten-915a7.firebaseio.com",
+    "project_id": "konten-915a7",
+    "storage_bucket": "konten-915a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928889593190:android:de834f8b4fe7ec9e",
+        "android_client_info": {
+          "package_name": "com.yogiw.konten"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928889593190-00f4r7mf3mmg84ur603lc2t51t19br0o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yogiw.konten",
+            "certificate_hash": "c29f953ea0244c9023765fc925fdc7a2be25db06"
+          }
+        },
+        {
+          "client_id": "928889593190-rfnne5hucco9o0dm84dajvpam2837gu9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkJW-9Vys0ViBVuf1Igg85hS2-6T5_bMw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928889593190-rfnne5hucco9o0dm84dajvpam2837gu9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

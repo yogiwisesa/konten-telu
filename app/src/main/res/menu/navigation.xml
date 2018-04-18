@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--TODO: Jangan lupa ditambah iconnya-->
+    <item
+        android:id="@+id/navigation_pilih_matkul"
+        android:icon="@drawable/ic_action_name"
+        android:title="Pilih Matkul" />
+
+    <item
+        android:id="@+id/navigation_input_jadwal"
+        android:icon="@drawable/ic_action_name"
+        android:title="Input Jadwal" />
+
+    <item
+        android:id="@+id/navigation_bap"
+        android:icon="@drawable/ic_action_name"
+        android:title="BAP" />
+
+    <item
+        android:id="@+id/navigation_tambah_admin"
+        android:icon="@mipmap/ic_launcher"
+        android:title="Tambah Admin" />
+</menu>

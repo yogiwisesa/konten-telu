@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Konten</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="input_jadwal">Input Jadwal</string>
+    <string name="inputjadwal">Silahkan menginputkan jadwal responsi</string>
+    <string name="mata_kuliah">Mata Kuliah</string>
+    <string name="hari">Hari</string>
+</resources>
